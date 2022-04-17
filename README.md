@@ -11,6 +11,6 @@ I am passionate about technology and currently training as UX/UI Designer | Fron
  
 Here are some more to meet me:
 
-🔭 I’m currently working on: Develop New Skills
-🌱 I’m currently learning: React , NodeJs
-👾 I would like to create a video game
+🔭 I’m currently working on: Develop New Skills.
+🌱 I’m currently learning: React , NodeJs.
+👾 I would like to create a video game.
