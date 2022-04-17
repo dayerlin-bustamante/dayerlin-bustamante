@@ -2,9 +2,9 @@
 
 day.devprograms@gmail.com 
 
-- I am passionate about technology 
-- Currently training as Designer UX/UI | Frontend Developer programmer 
-- I'm currently looking to add value and join a stable project or company that represents great learning for my professional development. My main programing languages/platform are:
+- I am passionate about technology and currently training as Designer UX/UI | Frontend Developer programmer 
+- I'm currently looking to add value and join a stable project or company that represents great learning for my professional development. 
+- My main programing languages/platform are:
 
 ```javascript
 const Day = {
