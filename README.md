@@ -1,6 +1,6 @@
 <h2> Hi  👋 I'm dayerlin-bustamante </h2>
 
-day.devprograms@gmail.com 
+day.devprograms@gmail.com / https://dayerlin.com/
 
 - I am passionate about technology and currently training as Designer UX/UI | Frontend Developer programmer 
 - I'm currently looking to add value and join a stable project or company that represents great learning for my professional development. 
@@ -10,8 +10,8 @@ day.devprograms@gmail.com
 const Day = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS,],
-  tools: [Git, Wordpress, Photoshop, Procreate],
-  learning:[React,NodeJs],
+  tools: [Git, Wordpress, Figma, npm],
+  learning:[React,NodeJs,Express],
   working: "I’m currently working on: Develop New Skills"
 }
 ```
