@@ -2,9 +2,8 @@
 
 day.devprograms@gmail.com / https://dayerlin.com/
 
-- I am passionate about technology and currently training as Designer UX/UI | Frontend Developer programmer 
-- I'm currently looking to add value and join a stable project or company that represents great learning for my professional development. 
-- My main programing languages/platform are:
+- I have +1 year of experience as a frontend developer, together with the team I manage the best results and optimize the process of each IT project. 
+- Passionate achieves a minimalist, clean and practical visual experience for the user
 
 ```javascript
 const Day = {
