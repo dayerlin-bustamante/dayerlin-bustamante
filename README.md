@@ -14,4 +14,3 @@ const Day = {
   working: "I’m currently working on: Develop New Skills"
 }
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayerlin-bustamante&layout=compact&theme=apprentice)](https://github.com/dayerlin-bustamante/github-readme-stats)
