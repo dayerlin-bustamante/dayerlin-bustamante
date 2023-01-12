@@ -9,7 +9,7 @@ day.devprograms@gmail.com / https://dayerlin.com/
 const Day = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS,],
-  tools: [Git, Wordpress, Figma, npm],
+  tools: [Git, Wordpress, Figma, sass, bootstrap],
   learning:[React,NodeJs,Express],
   working: "I’m currently working on: Develop New Skills"
 }
