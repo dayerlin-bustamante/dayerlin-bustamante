@@ -9,8 +9,8 @@ day.devprograms@gmail.com / https://dayerlin.com/
 const Day = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS,],
-  tools: [Git, Wordpress, Figma, Sass, Bootstrap],
-  learning:[React,NodeJs,Express],
+  tools: [Git, Wordpress, Figma, Sass, Bootstrap,NodeJs],
+  learning:[React,Svelte,Express],
   working: "I’m currently working on: Develop New Skills"
 }
 ```
