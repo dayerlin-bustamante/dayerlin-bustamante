@@ -1,8 +1,8 @@
 <h2> Hi  👋 I'm dayerlin-bustamante </h2>
 
-day.devprograms@gmail.com / https://dayerlin.com/
+day.devprograms@gmail.com / https://dayerlin.es/
 
-- I have +1 year of experience as a frontend developer, together with the team I manage the best results and optimize the process of each IT project. 
+- I have +2 year of experience as a frontend developer, together with the team I manage the best results and optimize the process of each IT project. 
 - Passionate achieves a minimalist, clean and practical visual experience for the user
 
 ```javascript
