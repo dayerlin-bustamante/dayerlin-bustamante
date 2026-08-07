@@ -2,15 +2,15 @@
 
 day.devprograms@gmail.com
 
-- Have +4 year of experience as a frontend developer, together with the team I manage the best results and optimize the process of each IT project. 
-- Passionate achieves a minimalist, clean and practical visual experience for the user
+- With 4+ years of experience building scalable web applications, Design Systems and reusable component libraries using Angular and TypeScript. 
+- Focused on creating accessible, high-performance and maintainable user interfaces that enable teams to deliver consistent product experiences at scale.
 
-```javascript
-const Day = {
+```Typescript
+const Day: Developer = {
   pronouns: "she" | "her",
-  code: [ Angular, Typescript, HTML, CSS ],
-  tools: [Git, Node.js, Figma, Sass, Azure, Tailwind],
-  learning:[SQL,C#],
-  working: "I’m currently working on: Develop New Skills"
+  code: [ Angular, Typescript, HTML, SCSS ],
+  tools: [ Git, Node, Figma, Docker, Azure, Tailwind ],
+  learning:[ Swift, C# ],
+  working: "I’m currently working on private library components"
 }
 ```
